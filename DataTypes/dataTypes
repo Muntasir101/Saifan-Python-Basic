@@ -1,0 +1,43 @@
+Text Type           : str
+Numeric Type        : int, float, complex
+Sequence Type       : list, tuple, range
+Mapping Type        : dict
+Set Type            : set, frozenset
+Boolean Type        : bool
+None Type           : NoneType
+
+str(String): Sequence of characters
+Creating String:
+1. Single Quotes
+2. Double Quotes
+3. Triple Quotes
+
+Numeric Type: represents a number
+1. Integer(int): Whole number without a decimal point. They can be positive, negative or zero
+2. Floating-Point Numbers(float): Number with a decimal point. They can be positive, negative or zero
+3. Complex Numbers(complex): Number have a real part and an imaginary part. Format a + bj where a is a real part and b is the imaginary part
+
+Sequence Type:
+List: Store an ordered collection of items which can be different types.
+List is mutable, meaning their contents can be changed after they are created.
+Each element is separated by coma.
+
+Tuple: Store an ordered collection of items which can be different types.
+Tuple is immutable, meaning their contents can not be changed,added or removed after they are created.
+Each element is separated by coma.
+
+Range: Immutable sequence of numbers,typically used for looping.Range object provides
+way to generate a sequence of numbers without creating a list in memory.
+
+Dictionary: Stores collection of key-value pairs. Dictionary is mutable.Each element is separated by coma.
+Element can be any data type.
+
+Set: Unordered collection of unique elements. Sets is mutable.Each element is separated by comma.
+Set do not allow duplicate elements.
+
+Frozenset: Is immutable version of set.
+
+Boolean: Represents True or False
+
+NoneType: Is the type of None object, which is used to represents the absence of a value or
+a null value.

@@ -1,0 +1,7 @@
+1. variable name must start with a letter or the underscore
+2. variable name cannot start with a number
+3. variable name can only contain alpha-numeric characters and underscores
+ ( a-z, A-Z, 0-9 and _ )
+4. variable names are case sensitive
+5. variable name cannot be any of the python keywords
+6. Special characters are not allowed

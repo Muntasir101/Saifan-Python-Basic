@@ -1,0 +1,26 @@
+Operators:
+1. Arithmetic Operators
+2. Comparison Operators
+3. Logical Operators
+4. Bitwise Operators
+5. Assignment Operators
+6. Identity Operators
+7. Membership Operators
+
+Arithmetic Operators:
+Addition: +
+Subtraction: -
+Multiplication: *
+Division: /
+Modulus: %
+Exponentation: **
+Floor division: //
+
+Comparison Operators: Used to compare two values
+Equal to: ==
+Not equal to: !=
+Greater than: >
+Less than: <
+Greater than or equal to:>=
+Less than or equal to: <=
+
